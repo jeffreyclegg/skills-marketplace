@@ -1,0 +1,41 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "jeffreyclegg",
+  "description": "Vendored, pinned and remixed agent skills. Built from sources.toml.",
+  "owner": {
+    "name": "Jeff Clegg",
+    "url": "https://github.com/jeffreyclegg"
+  },
+  "plugins": [
+    {
+      "name": "anthropic",
+      "description": "[vendor] docx, pdf, pptx, xlsx, skill-creator, theme-factory, summarize-meeting, doc-coauthoring",
+      "source": "./plugins/anthropic",
+      "category": "vendor"
+    },
+    {
+      "name": "azure",
+      "description": "[vendor] Installed locally as azure@1.2.40 (49e1542) - upstream has since moved",
+      "source": "./plugins/azure",
+      "category": "vendor"
+    },
+    {
+      "name": "mattpocock",
+      "description": "[community] wayfinder + dependency closure; grilling, domain-modeling, research, prototype, codebase-design",
+      "source": "./plugins/mattpocock",
+      "category": "community"
+    },
+    {
+      "name": "mitsuhiko",
+      "description": "[community] openscad - pulled via LobeHub with no provenance recorded at install time",
+      "source": "./plugins/mitsuhiko",
+      "category": "community"
+    },
+    {
+      "name": "ponytail",
+      "description": "[community] Installed locally as ponytail@4.8.4 (16f2980) - upstream has since moved",
+      "source": "./plugins/ponytail",
+      "category": "community"
+    }
+  ]
+}
