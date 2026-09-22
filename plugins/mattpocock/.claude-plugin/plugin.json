@@ -1,5 +1,11 @@
 {
   "name": "mattpocock",
+  "displayName": "Matt Pocock Skills",
   "description": "[community] wayfinder + dependency closure; grilling, domain-modeling, research, prototype, codebase-design",
-  "version": "3cca18b368ae"
+  "version": "3cca18b368ae",
+  "author": {
+    "name": "Matt Pocock",
+    "url": "https://github.com/mattpocock"
+  },
+  "homepage": "https://github.com/mattpocock/skills"
 }

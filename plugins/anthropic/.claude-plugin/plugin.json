@@ -1,5 +1,11 @@
 {
   "name": "anthropic",
+  "displayName": "Anthropic Skills",
   "description": "[vendor] docx, pdf, pptx, xlsx, skill-creator, theme-factory, summarize-meeting, doc-coauthoring",
-  "version": "34040c9c5685"
+  "version": "34040c9c5685",
+  "author": {
+    "name": "Anthropic",
+    "url": "https://github.com/anthropics"
+  },
+  "homepage": "https://github.com/anthropics/skills"
 }

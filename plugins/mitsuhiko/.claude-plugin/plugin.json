@@ -1,5 +1,11 @@
 {
   "name": "mitsuhiko",
-  "description": "[community] openscad - pulled via LobeHub with no provenance recorded at install time",
-  "version": "122e2994addd"
+  "displayName": "Agent Stuff",
+  "description": "[community] openscad and other agent utilities from Armin Ronacher",
+  "version": "122e2994addd",
+  "author": {
+    "name": "Armin Ronacher",
+    "url": "https://github.com/mitsuhiko"
+  },
+  "homepage": "https://github.com/mitsuhiko/agent-stuff"
 }

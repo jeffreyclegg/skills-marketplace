@@ -1,5 +1,11 @@
 {
   "name": "ponytail",
-  "description": "[community] Installed locally as ponytail@4.8.4 (16f2980) - upstream has since moved",
-  "version": "356918eba965"
+  "displayName": "Ponytail",
+  "description": "[community] Lazy-senior-dev mode: minimal, stdlib-first solutions, with review/audit/debt commands",
+  "version": "356918eba965",
+  "author": {
+    "name": "Dietrich Gebert",
+    "url": "https://github.com/DietrichGebert"
+  },
+  "homepage": "https://github.com/DietrichGebert/ponytail"
 }

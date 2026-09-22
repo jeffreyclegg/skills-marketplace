@@ -9,33 +9,83 @@
   "plugins": [
     {
       "name": "anthropic",
+      "displayName": "Anthropic Skills",
       "description": "[vendor] docx, pdf, pptx, xlsx, skill-creator, theme-factory, summarize-meeting, doc-coauthoring",
+      "author": {
+        "name": "Anthropic",
+        "url": "https://github.com/anthropics"
+      },
       "source": "./plugins/anthropic",
-      "category": "vendor"
+      "category": "vendor",
+      "keywords": [
+        "vendor",
+        "vendored"
+      ],
+      "repository": "https://github.com/anthropics/skills"
     },
     {
       "name": "azure",
-      "description": "[vendor] Installed locally as azure@1.2.40 (49e1542) - upstream has since moved",
+      "displayName": "Azure Skills",
+      "description": "[vendor] Azure skills from Microsoft: AKS, App Service, Foundry, storage, cost, compliance, diagnostics",
+      "author": {
+        "name": "Microsoft",
+        "url": "https://github.com/microsoft"
+      },
       "source": "./plugins/azure",
-      "category": "vendor"
+      "category": "vendor",
+      "keywords": [
+        "vendor",
+        "vendored"
+      ],
+      "repository": "https://github.com/microsoft/azure-skills"
     },
     {
       "name": "mattpocock",
+      "displayName": "Matt Pocock Skills",
       "description": "[community] wayfinder + dependency closure; grilling, domain-modeling, research, prototype, codebase-design",
+      "author": {
+        "name": "Matt Pocock",
+        "url": "https://github.com/mattpocock"
+      },
       "source": "./plugins/mattpocock",
-      "category": "community"
+      "category": "community",
+      "keywords": [
+        "community",
+        "vendored"
+      ],
+      "repository": "https://github.com/mattpocock/skills"
     },
     {
       "name": "mitsuhiko",
-      "description": "[community] openscad - pulled via LobeHub with no provenance recorded at install time",
+      "displayName": "Agent Stuff",
+      "description": "[community] openscad and other agent utilities from Armin Ronacher",
+      "author": {
+        "name": "Armin Ronacher",
+        "url": "https://github.com/mitsuhiko"
+      },
       "source": "./plugins/mitsuhiko",
-      "category": "community"
+      "category": "community",
+      "keywords": [
+        "community",
+        "vendored"
+      ],
+      "repository": "https://github.com/mitsuhiko/agent-stuff"
     },
     {
       "name": "ponytail",
-      "description": "[community] Installed locally as ponytail@4.8.4 (16f2980) - upstream has since moved",
+      "displayName": "Ponytail",
+      "description": "[community] Lazy-senior-dev mode: minimal, stdlib-first solutions, with review/audit/debt commands",
+      "author": {
+        "name": "Dietrich Gebert",
+        "url": "https://github.com/DietrichGebert"
+      },
       "source": "./plugins/ponytail",
-      "category": "community"
+      "category": "community",
+      "keywords": [
+        "community",
+        "vendored"
+      ],
+      "repository": "https://github.com/DietrichGebert/ponytail"
     }
   ]
 }
