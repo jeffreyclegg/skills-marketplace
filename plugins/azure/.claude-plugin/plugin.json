@@ -2,7 +2,7 @@
   "name": "azure",
   "displayName": "Azure Skills",
   "description": "[vendor] Azure skills from Microsoft: AKS, App Service, Foundry, storage, cost, compliance, diagnostics",
-  "version": "9d46511c1828",
+  "version": "f8fac821eca9",
   "author": {
     "name": "Microsoft",
     "url": "https://github.com/microsoft"

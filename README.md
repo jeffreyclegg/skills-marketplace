@@ -18,7 +18,7 @@ licenses are the upstreams' own.
 | Plugin | Upstream | Pin | License |
 |---|---|---|---|
 | `anthropic` | https://github.com/anthropics/skills | `34040c9c5685` | See upstream |
-| `azure` | https://github.com/microsoft/azure-skills | `9d46511c1828` | MIT |
-| `mattpocock` | https://github.com/mattpocock/skills | `3cca18b368ae` | MIT |
+| `azure` | https://github.com/microsoft/azure-skills | `f8fac821eca9` | MIT |
+| `mattpocock` | https://github.com/mattpocock/skills | `c55ee46073ed` | MIT |
 | `mitsuhiko` | https://github.com/mitsuhiko/agent-stuff | `122e2994addd` | See upstream |
-| `ponytail` | https://github.com/DietrichGebert/ponytail | `356918eba965` | See upstream |
+| `ponytail` | https://github.com/DietrichGebert/ponytail | `e3ba2aa6f1e6` | See upstream |
